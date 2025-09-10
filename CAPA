@@ -1,0 +1,6 @@
+<!-- hero: troque o bloco .illus pela imagem -->
+<img
+  src="capa-workshop.png"
+  alt="Workshop A Vida Que Eu Quero Viver — 23, 24 e 25 de outubro, 19h, ao vivo no YouTube"
+  class="hero-cover"
+/>
